@@ -1,0 +1,68 @@
+body{
+    background-color: lightseagreen;
+    margin: 20px 30px 10px 20px;
+
+}
+.live{
+border: 1px solid white;
+border-radius: 1rem;
+padding:7px;
+background-color: silver;
+margin: 10px;
+}
+#lk{
+    display: inline;
+    border: 2px solid white;
+    padding:20px 500px 20px 20px ;
+    background-color: lightcyan;
+    margin: 1rem 1rem 1rem 0rem;
+
+}
+.pl{
+    display: inline-block;
+    border: 1px solid white;
+    padding: 10px;
+    background-color: royalblue;
+    margin: 10px;
+}
+#lo{
+    display: inline;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    background-color: lightcyan;}
+    #box{
+
+border: 1px solid whitesmoke;
+background-color: mediumaquamarine;
+
+padding: 5rem;
+
+    }
+.pic{
+    display: inline;
+    margin: 35px; 
+
+
+}
+img{
+    border-radius: 50%;
+
+
+
+}
+.para{
+border: 1px solid white;
+display: inline-block;
+margin: 10px 100px 10px 100px;
+padding: 5px 5px 150px 5px;
+background-color: gray;
+
+
+}
+#piu{
+border: 2px solid white;
+background-color: thistle;
+padding: 10px;
+
+
+}
